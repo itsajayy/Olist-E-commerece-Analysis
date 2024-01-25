@@ -15,6 +15,18 @@ Below is the outline of the challenge
   - Data Cleaning
   - Answer Business Questions and Perform Exploratory Data Analysis
   - Share Insights and Make recommendations
+### Data Schema:
 
-Data Schema
+The schema is as shown as below:
           ![image](https://github.com/itsajayy/Olist-E-commerece-Analysis/assets/135236892/a821d3ef-c56b-4247-a26f-3fb0708994fb)
+
+### Step 1. Data Cleaning and exploration
+
+## Tool Used : Excel
+
+- This dataset contains 9 tables which were explored with excel to examine the quality of the data.
+  The dataset is examined to check for:
+    - * Null Values *
+    - * Unwanted Special Characters*
+    - * Irrelevent rows and columns*
+- 
