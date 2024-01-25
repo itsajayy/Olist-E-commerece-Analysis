@@ -17,4 +17,4 @@ Below is the outline of the challenge
   - Share Insights and Make recommendations
 
 Data Schema
-    
+          ![image](https://github.com/itsajayy/Olist-E-commerece-Analysis/assets/135236892/a821d3ef-c56b-4247-a26f-3fb0708994fb)
