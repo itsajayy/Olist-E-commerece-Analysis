@@ -366,6 +366,10 @@ GROUP BY
 
 </details>
 
+### Visualizations
+
+Ive created dashboards on Excel, Power Bi as well as Tableau and have uploaded them here on github. Please check them out for your reference!
+
 ### Insights
 
 - Olist makes more money not by selling a few products a lot, but by selling a lot of different products.
